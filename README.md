@@ -1,3 +1,4 @@
-# firstIndieGame
+# FIRSTINDIEGAME
+#CREATED USING UNITY AND C#
 
 ![](Capture.PNG)
